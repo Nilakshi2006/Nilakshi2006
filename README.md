@@ -62,12 +62,6 @@
 
 <br/>
 
-🔭 I’m currently working on Full Stack Web Applications<br>
-🌱 Exploring React<br>
-💬 Ask me about anything<br>
-📫 How to reach me nilakshibhanot@gmail.com<br>
-⚡ Fun fact If it works, I optimize it. If it breaks, I rebuild it better<br>
-
 ---
 
 
