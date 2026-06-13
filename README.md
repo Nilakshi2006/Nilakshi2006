@@ -231,7 +231,7 @@ A solar energy landing page with quote management and backend integration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilakshi%2006-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilakshi06)
 [![Instagram](https://img.shields.io/badge/Instagram-%40nilakshi6126-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nilakshi6126)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Nilakshi%2006-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/nilakshibhanotaslo)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Nilakshi%2006-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/nilakshibhanot)
 [![Email](https://img.shields.io/badge/Gmail-nilakshibhanot%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilakshibhanot@gmail.com)
 
 </div>
