@@ -198,6 +198,9 @@ A solar energy landing page with quote management and backend integration.
   <img src="https://img.shields.io/badge/IBM-Front%20End%20Technologies%20Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Front End TechnologiesCertificate"/>
 </a>
 
+<a href="https://www.freecodecamp.org/certification/nilakshi/responsive-web-design-v9" target="_blank">
+  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design%20Certificate-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design Certificate"/>
+</a>
 
 <a href="https://www.hackerrank.com/certificates/f79b19948c5c" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="SQL basics"/>
