@@ -7,7 +7,7 @@
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"
-    alt="Hard working Girl Image"
+    alt="Hard working Girl"
     width="220"
     height="200"
     style="
