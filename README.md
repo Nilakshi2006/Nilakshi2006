@@ -84,13 +84,6 @@ Full-stack attendance management system for students and faculty.
 - 🗃️ MongoDB integration for storing user and attendance data  
 - 👥 Team of 3 — Frontend development + API integration  
 
-<p>
-<a href="https://project-attendify.netlify.app/">
-<img src="https://img.shields.io/badge/🚀%20Preview%20Live%20Demo-2563EB?style=for-the-badge"/>
-</a>
-</p>
-
-
 </td>
 
 <td width="50%" valign="top">
@@ -106,12 +99,6 @@ A beginner-friendly notes application inspired by Google Keep.
 - 🌗 Light/Dark mode toggle for better user experience  
 - 💾 Persistent storage using browser localStorage  
 - 📱 Responsive UI with clean card-based layout  
-
-<p>
-<a href="https://nilakshi2006.github.io/Project-NoteNow/">
-<img src="https://img.shields.io/badge/🚀%20Preview%20Live%20Demo-2563EB?style=for-the-badge"/>
-</a>
-</p>
 
 </td>
 
@@ -133,11 +120,6 @@ A simple e-commerce web application with a backend API and static frontend.
 - 🛒 Complete shopping flow (cart, payment, checkout pages)  
 - 🌐 Static frontend integrated with backend APIs  
 
-<p>
-<a href="https://project-quickmart.netlify.app/">
-<img src="https://img.shields.io/badge/🚀%20Preview%20Live%20Demo-2563EB?style=for-the-badge"/>
-</a>
-</p>
 
 </td>
 
@@ -155,11 +137,6 @@ A solar energy landing page with quote management and backend integration.
 - 🌐 Responsive multi-page frontend with smooth navigation  
 - 🚀 Integrated frontend with backend APIs for complete flow  
 
- <p>
-<a href="https://project-gosolar.netlify.app/">
-<img src="https://img.shields.io/badge/🚀%20Preview%20Live%20Demo-2563EB?style=for-the-badge"/>
-</a>
-</p>
 
 </td>
 
