@@ -86,7 +86,7 @@ Full-stack attendance management system for students and faculty.
 
 <p>
 <a href="https://project-attendify.netlify.app/">
-<img src="https://img.shields.io/badge/🚀%20Preview%20Live%20Demo-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Preview%20Live%20Demo-2563EB?style=for-the-badge"/>
 </a>
 </p>
 
