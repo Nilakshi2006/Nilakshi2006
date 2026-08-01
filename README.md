@@ -75,8 +75,6 @@
 
 ### 🎓 Attendify
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome)]([![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome)](https://your-live-link.com))
-
 **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | April 2026**
 
 Full-stack attendance management system for students and faculty.
@@ -85,6 +83,13 @@ Full-stack attendance management system for students and faculty.
 - 🤖 Attendance marking using face recognition  
 - 🗃️ MongoDB integration for storing user and attendance data  
 - 👥 Team of 3 — Frontend development + API integration  
+
+<p>
+<a href="https://project-attendify.netlify.app/">
+<img src="https://img.shields.io/badge/🚀%20Preview%20Live%20Demo-000000?style=for-the-badge"/>
+</a>
+</p>
+
 
 </td>
 
