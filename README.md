@@ -107,6 +107,12 @@ A beginner-friendly notes application inspired by Google Keep.
 - 💾 Persistent storage using browser localStorage  
 - 📱 Responsive UI with clean card-based layout  
 
+<p>
+<a href="https://nilakshi2006.github.io/Project-NoteNow/">
+<img src="https://img.shields.io/badge/🚀%20Preview%20Live%20Demo-2563EB?style=for-the-badge"/>
+</a>
+</p>
+
 </td>
 
 </tr>
@@ -127,6 +133,12 @@ A simple e-commerce web application with a backend API and static frontend.
 - 🛒 Complete shopping flow (cart, payment, checkout pages)  
 - 🌐 Static frontend integrated with backend APIs  
 
+<p>
+<a href="https://project-quickmart.netlify.app/">
+<img src="https://img.shields.io/badge/🚀%20Preview%20Live%20Demo-2563EB?style=for-the-badge"/>
+</a>
+</p>
+
 </td>
 
 <td width="50%" valign="top">
@@ -142,6 +154,12 @@ A solar energy landing page with quote management and backend integration.
 - 🗃️ MongoDB integration for storing users and quote data  
 - 🌐 Responsive multi-page frontend with smooth navigation  
 - 🚀 Integrated frontend with backend APIs for complete flow  
+
+ <p>
+<a href="https://project-gosolar.netlify.app/">
+<img src="https://img.shields.io/badge/🚀%20Preview%20Live%20Demo-2563EB?style=for-the-badge"/>
+</a>
+</p>
 
 </td>
 
