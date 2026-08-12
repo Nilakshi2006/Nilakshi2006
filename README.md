@@ -6,7 +6,7 @@
 <!-- Profile Pic -->
 <p align="center">
   <img
-    src="https://i.pinimg.com/736x/91/c9/1e/91c91e0248b5194e0d5ae9986fd3ff76.jpg"
+ src="https://i.pinimg.com/736x/dd/55/4a/dd554a81302c28d748380d176023ce56.jpg"
     alt="Image of Hard working Girl "
     width="240"
     height="240"
