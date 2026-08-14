@@ -30,7 +30,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/Nilakshi2006?label=Followers&style=flat-square&color=FF4444&labelColor=1a1a2e" alt="followers"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.17%2F10-FF4444?style=flat-square&labelColor=1a1a2e" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/CGPA-8.32%2F10-FF4444?style=flat-square&labelColor=1a1a2e" alt="CGPA"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-00C853?style=flat-square&labelColor=1a1a2e" alt="open to work"/>
 </p>
