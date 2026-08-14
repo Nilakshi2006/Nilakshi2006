@@ -50,7 +50,7 @@
 |:---|:---|
 | 🧑‍💻 **Name** | Nilakshi |
 | 🎓 **University** | Rayat Bahra Professional University |
-| 📊 **CGPA** | 8.17 / 10 (up to Sem 5) |
+| 📊 **CGPA** | 8.32 / 10 (up to Sem 6) |
 | 📍 **Location** | Punjab, India |
 | 💼 **Role** | Full Stack Developer — MERN Stack |
 | 📧 **Email** | nilakshibhanot@gmail.com |
