@@ -7,7 +7,7 @@
 <p align="center">
   <img
  src="https://i.pinimg.com/736x/dd/55/4a/dd554a81302c28d748380d176023ce56.jpg"
-    alt="Office gurlie"
+    alt="Office gurlie image"
     width="240"
     height="240"
     style="
