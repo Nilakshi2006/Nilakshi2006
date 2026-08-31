@@ -21,7 +21,7 @@
 </p>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Nilakshi+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Building+Full-Stack+Web+Apps+%F0%9F%92%BB;Code.+Debug.+Repeat.+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Nilakshi+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Building+Full-Stack+Web+Apps+%F0%9F%92%BB;Code.+Debug.+Repeat.+%E2%9A%A1" alt="Typing SVG img" />
 
 <br/>
 
